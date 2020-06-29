@@ -13,26 +13,26 @@ Plot word clouds for reddit comments based on most recent comments data fetched 
 ## Examples
 <p align="center">
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/madlads.png">
-  <p>madlads</p>
+  <p align="center">madlads</p>
 </p>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/askmen.png">
-  <p>askmen</p>
+  <p align="center">askmen</p>
 </p>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/nicegirls.png">
-  <p>nicegirls</p>
+  <p align="center">nicegirls</p>
 </p>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/programmerhumor.png">
-  <p>programmerhumor</p>
+  <p align="center">programmerhumor</p>
 </p>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/politics.png">
-  <p>politics</p>
+  <p align="center">politics</p>
 </p>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/wallstreetbets.png">
-  <p>wallstreetbets</p>
+  <p align="center">wallstreetbets</p>
 </p>
 

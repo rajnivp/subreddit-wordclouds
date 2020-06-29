@@ -14,25 +14,25 @@ Plot word clouds for reddit comments based on most recent comments data fetched 
 <p align="center">
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/madlads.png">
   <p align="center">madlads</p>
-</p>
+</p><br><br>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/askmen.png">
   <p align="center">askmen</p>
-</p>
+</p><br><br>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/nicegirls.png">
   <p align="center">nicegirls</p>
-</p>
+</p><br><br>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/programmerhumor.png">
   <p align="center">programmerhumor</p>
-</p>
+</p><br><br>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/politics.png">
   <p align="center">politics</p>
-</p>
+</p><br><br>
 <p align="center"> 
 <img src="https://github.com/rajnivp/subreddit-wordclouds/blob/master/clouds/wallstreetbets.png">
   <p align="center">wallstreetbets</p>
-</p>
+</p><br><br>
 
